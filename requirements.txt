@@ -30,3 +30,6 @@ dotenv
 
 ##UI 
 streamlit
+
+pydantic
+pydantic[email]
