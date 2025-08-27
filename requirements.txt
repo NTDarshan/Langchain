@@ -33,3 +33,6 @@ streamlit
 
 pydantic
 pydantic[email]
+
+#visualize the chain
+grandalf
